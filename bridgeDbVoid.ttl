@@ -1,0 +1,1073 @@
+<http://bridgedb.org/data/gene_database/Hs_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Hs_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Fri Jun 15 09:50:12 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Hs_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://genome.ucsc.edu/" , "http://www.wikigenes.org/" , "http://en.wikipedia.org/wiki/Portal:Gene_Wiki" , "http://www.ensembl.org/" , "http://omim.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://genome.ucsc.edu/" , "http://www.wikigenes.org/" , "http://en.wikipedia.org/wiki/Portal:Gene_Wiki" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://omim.org/" , "http://www.genenames.org" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Xt_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Xt_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 03:41:19 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Xt_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Gg_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Gg_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 08:24:01 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Gg_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Ag_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Ag_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 04:05:10 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Ag_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://genome.ucsc.edu/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://genome.ucsc.edu/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Ol_Derby_20090515.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Ol_Derby_20090515.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:44:52 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Ol_Derby_20090515.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Ci_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Ci_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 10:34:16 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Ci_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Rn_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Rn_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 05:56:43 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Rn_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.informatics.jax.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" , "http://www.ensembl.org/" , "http://rgd.mcw.edu/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.informatics.jax.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" , "http://www.ensembl.org/" , "http://rgd.mcw.edu/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Dn_Derby_20090514.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Dn_Derby_20090514.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:40:42 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Dn_Derby_20090514.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Ml_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Ml_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 10:17:30 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Ml_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Qc_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Qc_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 17:04:40 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Qc_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.genenames.org" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Ss_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Ss_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Fri Jun 15 00:02:28 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Ss_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Sc_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Sc_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Wed Sep 26 01:15:23 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Sc_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.yeastgenome.org/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.yeastgenome.org/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Et_Derby_20090515.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Et_Derby_20090515.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:41:10 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Et_Derby_20090515.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/metabolites_111203.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :metabolites_111203.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://svn.bigcat.unimaas.nl/bridgedb/trunk/dbbuilder/src/org/bridgedb/util/hmdb/> ;
+      <http://purl.org/pav/derivedDate>
+              "Mon Dec 05 10:45:59 CET 2011"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              "HMDB Release 2.5 - August 1, 2009"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/metabolites_111203.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.wikipedia.org" , "http://www.ebi.ac.uk/chebi/" , "http://www.hmdb.ca/" , "http://pubchem.ncbi.nlm.nih.gov/" , "http://www.genome.jp/kegg/ligand.html" , "http://commonchemistry.org" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.wikipedia.org" , "http://www.hmdb.ca/" , "http://www.ebi.ac.uk/chebi/" , "http://pubchem.ncbi.nlm.nih.gov/" , "http://www.genome.jp/kegg/ligand.html" , "http://commonchemistry.org" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              "Wishart DS" .
+
+<http://bridgedb.org/data/gene_database/Tn_Derby_20090515.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Tn_Derby_20090515.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:46:22 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Tn_Derby_20090515.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Sa_Derby_20090515.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Sa_Derby_20090515.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:46:03 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Sa_Derby_20090515.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Gz_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Gz_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Fri Jun 15 05:39:14 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Gz_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Gm_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Gm_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Fri Jun 15 00:47:59 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Gm_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Md_Derby_20090515.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Md_Derby_20090515.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:42:44 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Md_Derby_20090515.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Zm_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Zm_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 17:58:23 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Zm_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Mx_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Mx_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Fri Jun 22 02:01:53 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Mx_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://biocyc.org" , "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.genome.jp/kegg/genes.html" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://tuberculist.epfl.ch" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://biocyc.org" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.genome.jp/kegg/genes.html" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://tuberculist.epfl.ch" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Ce_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Ce_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 00:05:44 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Ce_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.wormbase.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.wormbase.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Oi_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Oi_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 15:19:52 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Oi_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Sl_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Sl_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu Jun 21 01:40:19 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Sl_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Bs_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Bs_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Fri Jun 22 01:57:33 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Bs_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://biocyc.org" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.genome.jp/kegg/genes.html" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://biocyc.org" , "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.genome.jp/kegg/genes.html" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Pt_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Pt_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 06:41:30 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Pt_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Oc_Derby_20090515.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Oc_Derby_20090515.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:44:06 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Oc_Derby_20090515.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Dm_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Dm_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 04:41:52 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Dm_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://flybase.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://flybase.org/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Cf_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Cf_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 03:12:50 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Cf_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/An_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :An_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 18:12:49 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/An_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Pi_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Pi_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 15:58:49 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Pi_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Oa_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Oa_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 09:42:57 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Oa_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Bt_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Bt_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 09:07:09 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Bt_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+</tmp/bridgeDbVoid.ttl>
+      <http://purl.org/dc/terms/description>
+              """BridgeDb is an id mapping framework for bioinformatics applications.
+
+BridgeDb lets you add the following capabilities quickly and easily:
+
+translate identifiers from one system to another
+search references by id or symbol
+link out to online information for an identifier
+BridgeDb is not tied to a specific source of mapping information. Instead it provides an abstraction layer so you can switch easily between flat files, relational databases and several different web services.Information about the BridgeDb layout: http://bridgedb.org/wiki/GeneDatabaseLayout"""^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb example files"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/contributedBy>
+              "Anwesha_Dutta" , "Martina_Kutmon" ;
+      <http://purl.org/pav/createdBy>
+              "Andra_Waagmeester" ;
+      <http://purl.org/pav/createdOn>
+              "2013-06-04:17-14-36"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdWith>
+              <https://github.com/andrawaag/bridgeDbVoidHeaders/blob/master/bridgeDbVoidExtractor.java> .
+
+<http://bridgedb.org/data/gene_database/Sb_Derby_20090514.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Sb_Derby_20090514.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:46:08 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Sb_Derby_20090514.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Mm_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Mm_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu Jun 21 04:45:08 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Mm_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.informatics.jax.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://genome.ucsc.edu/" , "http://www.wikigenes.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.informatics.jax.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://genome.ucsc.edu/" , "http://www.wikigenes.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Vv_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Vv_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 16:31:52 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Vv_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" , "http://www.wikigenes.org/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.plantgdb.org/" , "http://www.wikigenes.org/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/La_Derby_20090514.pgdb>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :La_Derby_20090514.pgdb"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Thu May 21 10:42:42 CEST 2009"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/La_Derby_20090514.pgdb> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.ebi.ac.uk/QuickGO/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Ec_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Ec_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Fri Jun 22 02:22:43 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Ec_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://biocyc.org" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.genome.jp/kegg/genes.html" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://biocyc.org" , "http://www.ensembl.org/" , "http://www.pdb.org/" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.genome.jp/kegg/genes.html" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
+
+<http://bridgedb.org/data/gene_database/Dr_Derby_20120602.bridge>
+      a       <http://rdfs.org/ns/void#Dataset> ;
+      <http://purl.org/dc/terms/license>
+              <http://creativecommons.org/licenses/by-sa/3.0/> ;
+      <http://purl.org/dc/terms/subject>
+              <http://dbpedia.org/resource/Identifier> ;
+      <http://purl.org/dc/terms/title>
+              "BridgeDb mappings in bridgeDb database :Dr_Derby_20120602.bridge"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/pav/createdBy>
+              "Alexander_Pico" , "Martijn_van_Iersel" ;
+      <http://purl.org/pav/derivedBy>
+              <http://bridgedb.org/browser/trunk/dbbuilder/src/org/bridgedb/README> ;
+      <http://purl.org/pav/derivedDate>
+              "Sun Jun 10 07:50:56 CEST 2012"^^<java:java.util.Date> ;
+      <http://purl.org/pav/derivedFrom>
+              <http://www.ensembl.org/info/docs/Doxygen/core-api/index.html> ;
+      <http://purl.org/pav/version>
+              <http://may2012.archive.ensembl.org/index.html> ;
+      <http://rdfs.org/ns/void#dataDump>
+              <http://bridgedb.org/data/gene_database/Dr_Derby_20120602.bridge> ;
+      <http://rdfs.org/ns/void#objectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://zfin.org" , "http://www.wikigenes.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://rdfs.org/ns/void#subjectsTarget>
+              "http://www.ebi.uniprot.org/" , "http://www.pdb.org/" , "http://www.ncbi.nlm.nih.gov/gene" , "http://www.ebi.ac.uk/QuickGO/" , "http://zfin.org" , "http://www.ncbi.nlm.nih.gov/projects/RefSeq/" , "http://www.wikigenes.org/" , "http://www.ensembl.org/" , "http://www.affymetrix.com/" , "http://www.genenames.org" , "http://www.ncbi.nlm.nih.gov/unigene" , "http://microrna.sanger.ac.uk/" , "http://www.ebi.ac.uk/IPI" ;
+      <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#expresses>
+              <http://dbpedia.org/page/Peptide_sequence> .
