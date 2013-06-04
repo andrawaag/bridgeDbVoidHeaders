@@ -100,7 +100,7 @@ public class bridgeDbVoidExtractor {
 			System.out.println(bridgeDbFile.getAbsolutePath());
 			System.out.println(bridgeDbFile.getName());
 		}
-		basicCalls.saveRDF2File(bridgeDbmodel, " ", "TURTLE");
+		basicCalls.saveRDF2File(bridgeDbmodel, "/tmp/bridgeDbVoid.ttl", "TURTLE");
 	}
 
 }
