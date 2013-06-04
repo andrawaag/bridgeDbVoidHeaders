@@ -18,6 +18,7 @@ import com.hp.hpl.jena.rdf.model.Resource;
 import com.hp.hpl.jena.sparql.vocabulary.FOAF;
 import com.hp.hpl.jena.vocabulary.DCTerms;
 import com.hp.hpl.jena.vocabulary.RDF;
+import com.ibm.icu.text.SimpleDateFormat;
 
 
 public class bridgeDbVoidExtractor {
@@ -39,7 +40,11 @@ public class bridgeDbVoidExtractor {
 		bridgeDb.addProperty(Pav.createdBy, "Andra_Waagmeester");
 		bridgeDb.addProperty(Pav.contributedBy, "Martina_Kutmon");
 		bridgeDb.addProperty(Pav.contributedBy, "Anwesha_Dutta");
-        //bridgeDb.addProperty(Pav.createdWith, )
+		Resource githubResource = bridgeDbmodel.createResource("https://github.com/andrawaag/bridgeDbVoidHeaders/blob/master/bridgeDbVoidExtractor.java");
+        bridgeDb.addProperty(Pav.createdWith, githubResource);
+        Date myDate = new Date();
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd:HH-mm-ss");
+        bridgeDb.addLiteral(Pav.createdOn, sdf.format(myDate) );
 
 		bridgeDb.addLiteral(DCTerms.title, "BridgeDb example files");
 		bridgeDb.addLiteral(DCTerms.description, "BridgeDb is an id mapping framework for bioinformatics applications.\n" + 
