@@ -1,3 +1,4 @@
+
 <http://bridgedb.org/data/gene_database/Hs_Derby_20120602.bridge>
       a       <http://rdfs.org/ns/void#Dataset> ;
       <http://purl.org/dc/terms/license>
